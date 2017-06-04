@@ -175,10 +175,10 @@ a, .tp-caption {
 
 @keyframes shadowSpin {
     0% {
-        box-shadow: 10px -10px #39CCCC, -10px 10px #FFDC00;
+        box-shadow: 10px -10px #39CCCC, 10px 10px #FFDC00;
     }
     25% {
-        box-shadow: 10px 10px #39CCCC, -10px -10px #FFDC00;
+        box-shadow: 10px 10px #39CCCC, 10px -10px #FFDC00;
     }
     50% {
         box-shadow: -10px 10px #39CCCC, 10px -10px #FFDC00;
@@ -187,7 +187,7 @@ a, .tp-caption {
         box-shadow: -10px -10px #39CCCC, 10px 10px #FFDC00;
     }
     100% {
-        box-shadow: 10px -10px #39CCCC, -10px 10px #FFDC00;
+        box-shadow: 10px -10px #39CCCC, 10px 10px #FFDC00;
     }
 }
 
@@ -220,7 +220,7 @@ hr {
 .intro {
     width: 100%;
     position: relative;
-    background: url(../img/backgrounds/bg3.jpg) no-repeat top center;
+    background: url(../img/backgrounds/bg6.jpg) no-repeat top center;
     background-size: cover;
     height: auto;
 }
